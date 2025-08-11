@@ -1,0 +1,3 @@
+/workspaces/Cplusplus-CodeSpaceDemo/cmakedemo/step1/CMakeFiles/Tutorial.dir
+/workspaces/Cplusplus-CodeSpaceDemo/cmakedemo/step1/CMakeFiles/edit_cache.dir
+/workspaces/Cplusplus-CodeSpaceDemo/cmakedemo/step1/CMakeFiles/rebuild_cache.dir
